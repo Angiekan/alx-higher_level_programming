@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Author - Delbert Kipyegon
+# Author - Angiekan
 
 def add(a, b):
     """Return the addition of a and b."""
